@@ -30,8 +30,8 @@ var ollamaAPIKeys = []string{
 }
 
 const ollamaBaseURL = "https://ollama.com/api/chat"
-const ollamaModel = "glm-4.6:cloud"
-const displayModel = "GLM-4.6"
+const ollamaModel = "gemini-3-flash-preview"
+const displayModel = "Gemini-3-Flash"
 
 var keyIndex int
 
